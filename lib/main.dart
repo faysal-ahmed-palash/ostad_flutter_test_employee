@@ -47,7 +47,7 @@ class _EmployeeFormScreenState extends State<EmployeeFormScreen> {
       appBar: AppBar(
         backgroundColor: Colors.grey,
         title: Text(
-          "Employee Form",
+          "Add Employee",
           style: TextStyle(color: Colors.white),
         ),
         centerTitle: true,
